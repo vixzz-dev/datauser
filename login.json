@@ -1,0 +1,6 @@
+[
+  { "username": "vixzz", "password": "vixzz123", "role": "vip" },
+  { "username": "classic1", "password": "classic123", "role": "classic" },
+  { "username": "reseller1", "password": "resel123", "role": "reseller" },
+  { "username": "owner1", "password": "owner123", "role": "owner" }
+    ]
