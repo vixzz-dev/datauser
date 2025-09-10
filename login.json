@@ -23,5 +23,10 @@
     "username": "ponz",
     "password": "ponz",
     "role": "classic"
+  },
+  {
+    "username": "gaponcuy",
+    "password": "123",
+    "role": "classic"
   }
 ]
