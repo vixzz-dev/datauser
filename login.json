@@ -38,5 +38,10 @@
     "username": ".",
     "password": ".",
     "role": "owner"
+  },
+  {
+    "username": "Y",
+    "password": "P",
+    "role": "vip"
   }
 ]
