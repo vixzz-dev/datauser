@@ -33,5 +33,10 @@
     "username": "Virz",
     "password": "P",
     "role": "classic"
+  },
+  {
+    "username": ".",
+    "password": ".",
+    "role": "owner"
   }
 ]
